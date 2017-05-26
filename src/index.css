@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  width: 100%;
+  height:100%;
+  background-color: #1a1b3e;
+}
+
+
+
+.Root {
+
+
+	background-color: #767579;
+	width:50%;
+	height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.Root .ActionButtons button{
+
+	background-color: #75751d;
+	width: 100%;
+	height: 100%;
+}
+
+
